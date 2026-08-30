@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484270239341",
+    "project_id": "blackstar-cb0d9",
+    "storage_bucket": "blackstar-cb0d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484270239341:android:2db43a0ec5bf69d0bf1964",
+        "android_client_info": {
+          "package_name": "com.blackstar.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVZSaVgszj9pWh1KXbR1iU1oNttUVhd8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
